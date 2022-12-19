@@ -2,4 +2,5 @@ A program that converts a temperature from one scale to another for these condit
 - Celsius to Fahrenheit
 - Kelvin to Celsius
 - Fahrenheit to Kelvin
-- Reamur to Celsius
+- Celsius to Reamur
+- and much more
